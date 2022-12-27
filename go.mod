@@ -1,4 +1,4 @@
-module https://github.com/wojciechsmigielski96/golang-memorize
+module github.com/wojciechsmigielski96/golang-memorize
 
 go 1.19
 
